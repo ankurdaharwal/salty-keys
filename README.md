@@ -29,7 +29,7 @@ console.log("Signature : "+signature);
 ## Output
 ```
 ***************************
-****** ED25519 ************
+****** Salty Keys *********
 ****** Key/Signature  *****
 ****** Generation Test ****
 ***************************
