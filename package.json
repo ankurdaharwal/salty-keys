@@ -1,0 +1,28 @@
+{
+  "name": "salty-keys",
+  "version": "0.0.1",
+  "description": "Library to create BIP39 Mnemonic, ED25519 Key Pairs and RIPEMD160 Address",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "bip39": "2.5.0",
+    "tweetnacl": "^1.0.0",
+    "ripemd160": "2.0.2"
+  },
+  "keywords": [
+    "Ed25519",
+    "elliptic",
+    "crypto",
+    "keys",
+    "hyperledger",
+    "finterra"
+  ],
+  "author": "Ankur Daharwal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ankurdaharwal/salty-keys.git"
+  }
+}
